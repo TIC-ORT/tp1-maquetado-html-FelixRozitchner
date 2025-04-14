@@ -17,11 +17,6 @@ body {
     color: darkslategray
 }
 
-.footer{
-    padding: 5px;
-    background-color: darkslategrey;
-}
-
 .cards {
     display: flex;
     justify-content: space-between;
